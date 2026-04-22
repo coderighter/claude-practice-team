@@ -1,9 +1,5 @@
 # Shonna Smith — Skills Profile
 
-Copy this, fill it out, save it as `applicants/YOUR-NAME.md`, and submit a PR.
-
-No technical background required. But you do need to be AI first.
-
 ---
 
 ## Shonna Smith 
