@@ -1,4 +1,4 @@
-# [Your Name] — Skills Profile
+# Shonna Smith — Skills Profile
 
 Copy this, fill it out, save it as `applicants/YOUR-NAME.md`, and submit a PR.
 
